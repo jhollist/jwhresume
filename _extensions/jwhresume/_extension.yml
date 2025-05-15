@@ -1,0 +1,13 @@
+title: Jwhresume
+author: Jeffrey W. Hollister
+version: 1.0.0
+quarto-required: ">=1.4.0"
+contributes:
+  formats:
+    pdf:
+      toc: false
+      template-partials:
+        - "partials/before-body.tex"
+      include-in-header: header.tex
+      
+

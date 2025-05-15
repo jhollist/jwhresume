@@ -1,0 +1,20 @@
+\begin{center}
+$if(fullname)$
+{\fontsize{18}{0}\selectfont\scshape $fullname$ \vspace{-0.1in}}
+$endif$
+\end{center}
+\begin{center}
+$if(email)$
+\href{mailto: $email$}{\faEnvelope\enspace $email$}\hfill
+$endif$
+$if(phone)$
+\href{tel: $phone$}{\faPhone\enspace $phone$}\hfill
+$endif$
+$if(linkedin)$
+\href{https://linkedin.com/in/$linkedin$}{\faLinkedinIn\enspace linkedin.com/in/$linkedin$}\hfill
+$endif$
+$if(citystate)$
+\faMapMarker\enspace $citystate$\\
+$endif$
+\noindent\rule{7.5in}{0.4pt}
+\end{center}

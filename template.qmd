@@ -1,0 +1,84 @@
+---
+format:
+  jwhresume-pdf: default
+fullname: Person W. Person
+email: "p.w.person@example.com"
+phone: "111 222 3333"
+linkedin: "pwperson"
+citystate: "Place, ST"
+date: last-modified
+fontsize: "11pt"
+geometry:
+  - top=0.45in
+  - bottom=0.45in
+  - left=0.65in
+  - right=0.65in
+mainfont: Arial
+---
+
+<!--Thanks to https://jeffsum.com/ for the Jeff Goldblum version of lorem ipsum-->
+
+## Summary
+
+Is this my espresso machine? Wh-what is-h-how did you get my espresso machine? Must go faster... go, go, go, go, go! They're using our own satellites against us. And the clock is ticking.
+
+## Experience
+
+### May 2006 - Present: Hacker, Dissolved Federal Agency, Atlantic Science Thingy, Narragansett, RI
+
+- I was part of something special. Did he just throw my cat out of the window? I was part of something special. Checkmate... I was part of something special. Is this my espresso machine? Wh-what is-h-how did you get my espresso machine? I was part of something special.
+
+- We gotta burn the rain forest, dump toxic waste, pollute the air, and rip up the OZONE! 'Cause maybe if we screw up this planet enough, they won't want it anymore! Just my luck, no ice. Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should.  
+
+- Did he just throw my cat out of the window? Checkmate... Must go faster. Life finds a way. Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists. 
+
+
+### Jan 2000 - 2006: Cat Washer, Kitty Kleaners, Inc., Paris, MO
+
+- You're a very talented young man, with your own clever thoughts and ideas. Do you need a manager?
+
+- I was part of something special. Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. 
+
+- God help us, we're in the hands of engineers.
+
+## Summary of Skills
+
+**This**: Jaguar shark! So tell me - does it really exist? So you two dig up, dig up dinosaurs? 
+\vspace{0.075in}
+
+**That**: Life finds a way. Hey, you know how I'm, like, always trying to save the planet? Here's my chance.
+\vspace{0.075in}
+
+**The Other Thing**: I was part of something special. Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists. Remind me to thank John for a lovely weekend.
+\vspace{0.075in}
+
+
+## Education
+
+**2004** Ph.D. in Science, University of Example, Detroit, RI
+\vspace{0.075in}
+
+**1997** Masters of Management, Duck University, Quack City, NC
+\vspace{0.075in}
+
+**1995** Bachelor of BBQ, Ribs with emphasis in brisket (Magna Cum Laude), BBQ University, Kansas City, MO
+
+## Selected Publications and Presentations
+
+P. W. Person, C. L. Other-Person, A. H. Ooops. (2024). Is this my espresso machine? Wh-what is-h-how did you get my espresso machine?. Science.
+\vspace{0.075in}
+
+Person, P. W. (2022) So tell me - does it really exist? Must go faster... go, go, go, go, go!. Advanced Advances in Faster Going. February 2022. New Orelans, LA.
+\vspace{0.075in}
+
+
+Person, P. W. and J. Smith. (2019) This resume repeats itself. November 2019. TED Talk.
+\vspace{0.075in}
+
+## Other Information
+
+**2014 - Present** GroupyGroup: Editorial Board, reviewer, remote participant
+\vspace{0.075in}
+
+**2008 - Present** All the communities: Colead User Group, Cofounder and maintainer of Important Thing, Inter-Agency User Group, Colead/cofounder of Breakin 2: Electric Boogaloo Conference, Providence, RI.
+\vspace{0.075in}
