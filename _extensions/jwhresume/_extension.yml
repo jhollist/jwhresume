@@ -6,6 +6,7 @@ contributes:
   formats:
     pdf:
       toc: false
+      classoption: [hidelinks]
       template-partials:
         - "partials/before-body.tex"
       include-in-header: header.tex
