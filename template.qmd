@@ -8,6 +8,7 @@ linkedin: "pwperson"
 citystate: "Place, ST"
 date: last-modified
 fontsize: "11pt"
+colorlinks: false
 geometry:
   - top=0.45in
   - bottom=0.45in
@@ -40,6 +41,8 @@ Is this my espresso machine? Wh-what is-h-how did you get my espresso machine? M
 - I was part of something special. Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. 
 
 - God help us, we're in the hands of engineers.
+
+\renewcommand{\labelitemi}{}
 
 ## Summary of Skills
 
