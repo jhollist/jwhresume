@@ -10,10 +10,10 @@ date: last-modified
 fontsize: "11pt"
 colorlinks: false
 geometry:
-  - top=0.45in
-  - bottom=0.45in
-  - left=0.65in
-  - right=0.65in
+  - top=1in
+  - bottom=1in
+  - left=1in
+  - right=1in
 mainfont: Arial
 ---
 
