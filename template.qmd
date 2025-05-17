@@ -7,14 +7,14 @@ phone: "111 222 3333"
 linkedin: "pwperson"
 citystate: "Place, ST"
 date: last-modified
-fontsize: "11pt"
+fontsize: "10pt"
 colorlinks: false
 geometry:
-  - top=1in
-  - bottom=1in
-  - left=1in
-  - right=1in
-mainfont: Arial
+  - top=0.5in
+  - bottom=0.5in
+  - left=0.5in
+  - right=0.5in
+mainfont: Liberation Sans
 ---
 
 <!--Thanks to https://jeffsum.com/ for the Jeff Goldblum version of lorem ipsum-->
