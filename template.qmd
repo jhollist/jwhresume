@@ -15,6 +15,7 @@ geometry:
   - left=0.5in
   - right=0.5in
 mainfont: Liberation Sans
+# Template adapted from https://www.overleaf.com/latex/templates/simple-cover-letter/jmkbrdnmxmbn
 ---
 
 <!--Thanks to https://jeffsum.com/ for the Jeff Goldblum version of lorem ipsum-->
